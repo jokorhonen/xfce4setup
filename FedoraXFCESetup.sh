@@ -41,3 +41,4 @@ xfconf-query -n -c xfce4-panel -p /plugins/plugin-6 -t string -s systray
 xfconf-query -n -c xfce4-panel -p /plugins/plugin-7 -t string -s pulseaudio
 xfconf-query -n -c xfce4-panel -p /plugins/plugin-8 -t string -s showdesktop
 
+xfconf-query -c xfce4-panel -p /plugins/plugin-3/expand -t bool -s true
